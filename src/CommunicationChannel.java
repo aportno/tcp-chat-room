@@ -1,5 +1,3 @@
-package chapter7;
-
 import java.util.Scanner;
 
 public class CommunicationChannel extends Thread {

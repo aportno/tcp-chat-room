@@ -1,9 +1,7 @@
-package chapter7;
-
-import java.net.Socket;
-import java.net.ServerSocket;
-import java.net.InetAddress;
 import java.io.IOException;
+import java.net.InetAddress;
+import java.net.ServerSocket;
+import java.net.Socket;
 import java.util.Scanner;
 
 public class TestTCPServer {

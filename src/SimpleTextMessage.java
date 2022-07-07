@@ -1,5 +1,3 @@
-package chapter7;
-
 import java.io.Serial;
 
 public class SimpleTextMessage implements java.io.Serializable {

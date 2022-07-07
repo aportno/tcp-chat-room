@@ -1,7 +1,5 @@
-package chapter7;
-
-import java.net.Socket;
 import java.io.IOException;
+import java.net.Socket;
 import java.util.Scanner;
 
 public class TestTCPClient {
